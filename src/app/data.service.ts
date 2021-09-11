@@ -10,7 +10,7 @@ export class DataService {
   }
 
   logger() {
-    console.log('logggg');
+    console.log('log');
   }
 
   getUsers() {
